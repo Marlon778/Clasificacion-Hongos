@@ -1,1 +1,1 @@
-# Clasificaci-n-de-Hongos-
+# Clasificacion-Hongos
